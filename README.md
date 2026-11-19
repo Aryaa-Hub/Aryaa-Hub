@@ -28,22 +28,35 @@
 
 ---
 
-## 👋 Hi, I'm Arya
+## 👋 About Me
 
-<img align="right" src="https://media1.tenor.com/m/E7W3NhlyOy4AAAAC/gojo-satoru-gojo.gif" width="260" style="border-radius:12px; margin-left:20px;" />
+<table>
+<tr>
+<td valign="top" width="55%">
 
-I'm a **Software Engineering student** who's passionate about building clean, fast, and modern web applications. Currently deep-diving into the TypeScript ecosystem — from crafting responsive frontends to designing scalable backend systems.
+### Hi, I'm Arya! 
+
+I'm a **Software Engineering student** passionate about building clean, fast, and modern web applications. Currently deep-diving into the TypeScript ecosystem — from crafting responsive frontends to designing scalable backend systems.
 
 <br/>
 
-- 🎓 &nbsp; Informatics / Software Engineering Student
-- 💼 &nbsp; Previously worked on enterprise web systems during internship
-- 🛠️ &nbsp; Love working with **TypeScript, React, Node.js, and PostgreSQL**
-- 🧪 &nbsp; Into end-to-end testing with **Playwright**
-- 🌱 &nbsp; Currently exploring **system architecture & cloud-native development**
-- 💬 &nbsp; Ask me anything about **full-stack web dev or TypeScript**
+🎓 &nbsp; Informatics / Software Engineering Student  
+💼 &nbsp; Built enterprise web systems during internship  
+🛠️ &nbsp; TypeScript · React · Node.js · PostgreSQL  
+🧪 &nbsp; End-to-end testing with Playwright  
+🌱 &nbsp; Exploring system architecture & cloud-native  
+💬 &nbsp; Ask me anything about full-stack web dev!
 
-<br/><br/>
+</td>
+<td valign="top" width="45%">
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/E7W3NhlyOy4AAAAC/gojo-satoru-gojo.gif" width="100%" style="border-radius: 16px;" />
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
