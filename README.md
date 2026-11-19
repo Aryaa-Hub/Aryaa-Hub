@@ -22,41 +22,22 @@
   <img src="https://komarev.com/ghpvc/?username=Aryaa-Hub&style=for-the-badge&color=6e40c9&label=Profile+Views" />
 </p>
 
-</div>
-
 <br/>
+
+<img src="https://media.tenor.com/jsnrinI6g5wAAAAC/gojo-gojo-satoru.gif" width="100%" />
+
+</div>
 
 ---
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
-### Hi, I'm Arya! 
-
-I'm a **Software Engineering student** passionate about building clean, fast, and modern web applications. Currently deep-diving into the TypeScript ecosystem — from crafting responsive frontends to designing scalable backend systems.
-
-<br/>
-
-🎓 &nbsp; Informatics / Software Engineering Student  
-💼 &nbsp; Built enterprise web systems during internship  
-🛠️ &nbsp; TypeScript · React · Node.js · PostgreSQL  
-🧪 &nbsp; End-to-end testing with Playwright  
-🌱 &nbsp; Exploring system architecture & cloud-native  
-💬 &nbsp; Ask me anything about full-stack web dev!
-
-</td>
-<td valign="top" width="45%">
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/E7W3NhlyOy4AAAAC/gojo-satoru-gojo.gif" width="100%" style="border-radius: 16px;" />
-</div>
-
-</td>
-</tr>
-</table>
+- 🎓 &nbsp; Informatics / Software Engineering Student
+- 💼 &nbsp; Built enterprise web systems during internship
+- 🛠️ &nbsp; TypeScript · React · Node.js · PostgreSQL
+- 🧪 &nbsp; End-to-end testing with Playwright
+- 🌱 &nbsp; Exploring system architecture & cloud-native
+- 💬 &nbsp; Ask me anything about full-stack web dev!
 
 ---
 
