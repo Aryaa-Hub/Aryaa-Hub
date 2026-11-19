@@ -32,33 +32,23 @@
 
 I'm a **Software Engineering student** who's passionate about building clean, fast, and modern web applications. Currently deep-diving into the TypeScript ecosystem — from crafting responsive frontends to designing scalable backend systems.
 
-- 🎓 &nbsp;**Informatics / Software Engineering Student**
-- 💼 &nbsp;Previously worked on enterprise web systems during internship
-- 🛠️ &nbsp;Love working with **TypeScript, React, Node.js, and PostgreSQL**
-- 🧪 &nbsp;Into end-to-end testing with **Playwright**
-- 🌱 &nbsp;Currently exploring **system architecture & cloud-native development**
-- 💬 &nbsp;Ask me anything about **full-stack web dev or TypeScript**
+- 🎓 &nbsp; Informatics / Software Engineering Student
+- 💼 &nbsp; Previously worked on enterprise web systems during internship
+- 🛠️ &nbsp; Love working with **TypeScript, React, Node.js, and PostgreSQL**
+- 🧪 &nbsp; Into end-to-end testing with **Playwright**
+- 🌱 &nbsp; Currently exploring **system architecture & cloud-native development**
+- 💬 &nbsp; Ask me anything about **full-stack web dev or TypeScript**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs&theme=dark&perline=5" /><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,postgres,prisma,docker,git&theme=dark&perline=5" /><br/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs&theme=dark&perline=5" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,postgres,prisma,docker,git&theme=dark&perline=5" />
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=github,postman,figma,vscode,python&theme=dark&perline=5" />
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🌐 Frontend | ⚙️ Backend | 🗄️ Database | 🧰 Tools |
-| :---: | :---: | :---: | :---: |
-| React, Next.js | Node.js, Express | PostgreSQL, Prisma | Git, Docker |
-| TypeScript, HTML/CSS | REST APIs | SQL | Playwright, Postman |
-| Tailwind CSS, Figma | TypeScript | Drizzle ORM | VS Code, PNPM |
-
 </div>
 
 ---
