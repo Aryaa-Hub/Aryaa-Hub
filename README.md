@@ -30,7 +30,11 @@
 
 ## 👋 Hi, I'm Arya
 
+<img align="right" src="https://media1.tenor.com/m/E7W3NhlyOy4AAAAC/gojo-satoru-gojo.gif" width="260" style="border-radius:12px; margin-left:20px;" />
+
 I'm a **Software Engineering student** who's passionate about building clean, fast, and modern web applications. Currently deep-diving into the TypeScript ecosystem — from crafting responsive frontends to designing scalable backend systems.
+
+<br/>
 
 - 🎓 &nbsp; Informatics / Software Engineering Student
 - 💼 &nbsp; Previously worked on enterprise web systems during internship
@@ -38,6 +42,8 @@ I'm a **Software Engineering student** who's passionate about building clean, fa
 - 🧪 &nbsp; Into end-to-end testing with **Playwright**
 - 🌱 &nbsp; Currently exploring **system architecture & cloud-native development**
 - 💬 &nbsp; Ask me anything about **full-stack web dev or TypeScript**
+
+<br/><br/>
 
 ---
 
