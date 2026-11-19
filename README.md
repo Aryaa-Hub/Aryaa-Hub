@@ -1,79 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,24,30&height=180&section=header&text=Arya%20Dwi%20Karunia%20Putra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arya%20Dwi%20Karunia%20Putra&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20TypeScript%20Enthusiast&descSize=16&descAlignY=58&descColor=94A3B8" width="100%" />
+
+<br/>
 
 <a href="https://github.com/Aryaa-Hub">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&height=45&lines=Hi+there,+welcome+to+my+profile!+%F0%9F%91%8B;Informatics+%26+Software+Engineering+Student;Full-Stack+Developer+(TypeScript+%2F+Node.js);Building+clean%2C+modern%2C+and+scalable+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&height=40&lines=Building+modern+web+applications+%F0%9F%9A%80;TypeScript+%7C+Node.js+%7C+React+%7C+Next.js;Turning+ideas+into+real+products+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
-<p align="center">
+<br/><br/>
+
+<p>
   <a href="mailto:aryadwikp46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aryadwikp46%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-aryadwikp46-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/Aryaa-Hub">
-    <img src="https://img.shields.io/badge/GitHub-Aryaa--Hub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Aryaa--Hub-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Aryaa-Hub&style=for-the-badge&color=6e40c9&label=Profile+Views" />
 </p>
 
 </div>
 
----
-
-### 👨‍💻 About Me
-
-```text
-┌── [arya@portfolio] ── [~]
-└──╼ $ cat about-me.json
-{
-  "name"          : "Arya Dwi Karunia Putra",
-  "status"        : "Informatics / Software Engineering Student",
-  "passion"       : ["Full-Stack Dev", "Clean Code", "System Architecture"],
-  "current_focus" : "Building end-to-end web systems & mastering TypeScript",
-  "motto"         : "Build things that work smoothly and look great."
-}
-```
-
-- 🚀 Passionate about full-stack development, backend APIs, and modern UI.
-- 🛠️ Experienced in building real-world enterprise web platforms.
-- 📈 Always learning, always building, always improving.
+<br/>
 
 ---
 
-### 💻 Tech Stack & Tools
+## 👋 Hi, I'm Arya
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs,tailwind,postgres,prisma,docker,git,github,postman,figma,python&theme=dark" />
-</p>
+I'm a **Software Engineering student** who's passionate about building clean, fast, and modern web applications. Currently deep-diving into the TypeScript ecosystem — from crafting responsive frontends to designing scalable backend systems.
 
-<details>
-  <summary><b>📂 Breakdown per Category</b></summary>
-  <br/>
-
-  | Category | Technologies |
-  | :--- | :--- |
-  | **Languages** | TypeScript, JavaScript, Python, SQL, HTML5, CSS3 |
-  | **Frontend** | React, Next.js, Tailwind CSS, Responsive UI |
-  | **Backend & DB** | Node.js, Express, REST APIs, PostgreSQL, Prisma ORM |
-  | **Testing & Tools** | Playwright, Git, Docker, Postman, VS Code, PNPM |
-
-</details>
+- 🎓 &nbsp;**Informatics / Software Engineering Student**
+- 💼 &nbsp;Previously worked on enterprise web systems during internship
+- 🛠️ &nbsp;Love working with **TypeScript, React, Node.js, and PostgreSQL**
+- 🧪 &nbsp;Into end-to-end testing with **Playwright**
+- 🌱 &nbsp;Currently exploring **system architecture & cloud-native development**
+- 💬 &nbsp;Ask me anything about **full-stack web dev or TypeScript**
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryaa-Hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&count_private=true" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaa-Hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="155" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs&theme=dark&perline=5" /><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,postgres,prisma,docker,git&theme=dark&perline=5" /><br/>
+  <img src="https://skillicons.dev/icons?i=github,postman,figma,vscode,python&theme=dark&perline=5" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryaa-Hub&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="145" />
+
+| 🌐 Frontend | ⚙️ Backend | 🗄️ Database | 🧰 Tools |
+| :---: | :---: | :---: | :---: |
+| React, Next.js | Node.js, Express | PostgreSQL, Prisma | Git, Docker |
+| TypeScript, HTML/CSS | REST APIs | SQL | Playwright, Postman |
+| Tailwind CSS, Figma | TypeScript | Drizzle ORM | VS Code, PNPM |
+
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <sub>Crafted with care by <b>Arya Dwi Karunia Putra</b> ✨</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryaa-Hub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD5E0&count_private=true&include_all_commits=true&rank_icon=github" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaa-Hub&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD5E0&langs_count=8" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryaa-Hub&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=CDD5E0&dates=6B7280&currStreakNum=ffffff&sideNums=ffffff" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryaa-Hub&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 </div>
