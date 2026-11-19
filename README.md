@@ -30,18 +30,18 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
-- 🎓 &nbsp; Informatics / Software Engineering Student
-- 💼 &nbsp; Built enterprise web systems during internship
-- 🛠️ &nbsp; TypeScript · React · Node.js · PostgreSQL
-- 🧪 &nbsp; End-to-end testing with Playwright
-- 🌱 &nbsp; Exploring system architecture & cloud-native
-- 💬 &nbsp; Ask me anything about full-stack web dev!
+-  &nbsp; Informatics / Software Engineering Student
+-  &nbsp; Built enterprise web systems during internship
+-  &nbsp; TypeScript · React · Node.js · PostgreSQL
+-  &nbsp; End-to-end testing with Playwright
+-  &nbsp; Exploring system architecture & cloud-native
+-  &nbsp; Ask me anything about full-stack web dev!
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs&theme=dark&perline=5" />
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryaa-Hub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD5E0&count_private=true&include_all_commits=true&rank_icon=github" height="160"/>
